@@ -1,12 +1,15 @@
 {
-  "name": "voice-input",
+  "name": "open-studio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lojoyu.github.io/voice-input",
+  "homepage": "https://zonesound.github.io/open-studio",
   "dependencies": {
     "p5": "^0.10.2",
     "react": "^16.10.2",
+    "react-anime": "^2.2.0",
     "react-dom": "^16.10.2",
+    "react-html-parser": "^2.0.2",
+    "react-motion": "^0.5.2",
     "react-p5-wrapper": "^2.0.0",
     "react-scripts": "3.2.0",
     "socket.io-client": "^2.3.0",
@@ -38,5 +41,16 @@
   "devDependencies": {
     "gh-pages": "^2.1.1",
     "recharts": "^1.7.1"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZONESOUND/open-studio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZONESOUND/open-studio/issues"
   }
 }
