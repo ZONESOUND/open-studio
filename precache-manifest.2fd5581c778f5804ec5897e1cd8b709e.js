@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43d3340a7df4083fbe2ee324bd2723f6",
+    "revision": "edadda974696b65e43375c82209af3e3",
     "url": "/open-studio/index.html"
   },
   {
-    "revision": "d0c4ec321ec7e475e728",
+    "revision": "6481a7ef65e965d68472",
     "url": "/open-studio/static/css/main.9348384d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-studio/static/js/2.14ee12c4.chunk.js"
   },
   {
-    "revision": "d0c4ec321ec7e475e728",
-    "url": "/open-studio/static/js/main.5c0d6917.chunk.js"
+    "revision": "6481a7ef65e965d68472",
+    "url": "/open-studio/static/js/main.1230273e.chunk.js"
   },
   {
     "revision": "76fdd2cfb3879c845552",
